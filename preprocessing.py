@@ -6,7 +6,8 @@ Created on Tue Dec 21 14:36:32 2021
 """
 
 
-#PREPROCESSING....................
+#PREPROCESSING FOE DATA....................
+
 import pandas as pd
 import numpy as np
 from sklearn.impute import SimpleImputer
